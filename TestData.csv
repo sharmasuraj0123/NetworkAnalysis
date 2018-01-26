@@ -1,0 +1,7 @@
+Vertex 1,Vertex 2,Bond Strength
+a,b,1
+a,c,1
+a,d,1
+b,c,1
+b,d,1
+c,d,1
